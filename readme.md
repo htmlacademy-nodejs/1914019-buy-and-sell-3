@@ -1,7 +1,7 @@
 # Учебный проект «Куплю. Продам» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Паярели](https://up.htmlacademy.ru/nodejs/3/user/1914019).
-* Наставник: `Неизвестно`.
+* Наставник: [Юрий Кучма](https://htmlacademy.ru/profile/krabaton).
 
 ---
 
